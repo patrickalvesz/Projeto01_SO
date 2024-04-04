@@ -1,6 +1,6 @@
-## Projeto1_SO
+# Projeto1_SO
 
-# Grupo 04N12:
+## Grupo 04N12:
 
   Patrick Alves Gonçalves - 42214440 - 10409363
 
