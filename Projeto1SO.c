@@ -1,3 +1,8 @@
+//GRUPO 04N12:
+//Patrick Alves Gonçalves - 42214440 - 10409363
+//Nicholas dos Santos Leal - 42210771 - 10409210
+//Gustavo Ibara - 42210720 – 10389067
+
 #define _GNU_SOURCE
 #include <stdlib.h>
 #include <malloc.h>
