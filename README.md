@@ -15,11 +15,11 @@ Utilizamos a plataforma AWS para compilar o código e realizar o commit do progr
 
 Para compilar o programa no CloudShell AWS:
 
-• Crie o arquivo com o nome: Projeto1.c. Para fazer isso, execute o seguinte comando: nano Projeto1.c
+• Crie o arquivo com o nome: Projeto1SO.c. Para fazer isso, execute o seguinte comando: nano Projeto1SO.c
 
 • Depois de criar o arquivo, insira o código disponível neste repositório. Após inserir o código, saia do editor pressionando as teclas (CTRL + X), Y e Enter.
 
-• Para compilar o programa, digite o seguinte comando: gcc Projeto1.c -o pj
+• Para compilar o programa, digite o seguinte comando: gcc Projeto1SO.c -o pj
 
 OBS: “pj” pode ser qualquer “variável”, e será usada para executar o programa.
 
